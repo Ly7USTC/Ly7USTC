@@ -1,4 +1,4 @@
-## Hi, I'm Yuan Li 👋
+## Hi, I'm Yuan Li （李渊）
 
 I hold a PhD in Statistics from **Imperial College London**. My research is on estimation methods and limit theorems of stochastic processes. This page collects some code behind my research projects.
 
