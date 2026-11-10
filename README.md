@@ -15,7 +15,6 @@ PhD work is joint with Mikko S. Pakkanen and Almut E. D. Veraart; MSc project su
 ### 🛠️ Tools
 
 **Languages:** Python (NumPy, SciPy, pandas, statsmodels, pytest) · R · MATLAB  
-**Methods:** stochastic simulation · GMM and M-estimation · high-frequency econometrics · time-series analysis
 
 ### 🎓 Education
 
